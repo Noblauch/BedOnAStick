@@ -1,0 +1,21 @@
+Symbol range map extraction starting
+Processing 5 files
+startProcessing "homemadestudios/BedOnAStick.java" md5: a5798d3e47044c5a32a94a3a2ef114e2
+Cache Hit!
+endProcessing "homemadestudios/BedOnAStick.java"
+
+startProcessing "homemadestudios/EventHandler.java" md5: 12a7fd94cc7485249563591200cefd8f
+endProcessing "homemadestudios/EventHandler.java"
+
+startProcessing "homemadestudios/MessageBase.java" md5: 58b2fb9ccb69858fe5242589906a7a9c
+Cache Hit!
+endProcessing "homemadestudios/MessageBase.java"
+
+startProcessing "homemadestudios/MessageSleep.java" md5: 3cd7322744443a16dc08b51577646440
+Cache Hit!
+endProcessing "homemadestudios/MessageSleep.java"
+
+startProcessing "homemadestudios/NetworkHandler.java" md5: 53a1eadf41da3f50a4deaea079f91965
+Cache Hit!
+endProcessing "homemadestudios/NetworkHandler.java"
+

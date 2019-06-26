@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bedonastick",
+  "name": "Bed on a Stick",
+  "description": "Go to bed anywhere!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Noblauch"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
